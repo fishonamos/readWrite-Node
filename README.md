@@ -1,5 +1,7 @@
 # How to Use
 
+Being able to read from files on your local file system can be hugely useful and there are a number of things you can build on top of this. A log reader, importing information from spreadsheets and xml files or whatever you can think of, being able to read from files is hugely useful.
+
 <!-- Output copied to clipboard! -->
 
 <!-----
