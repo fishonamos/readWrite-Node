@@ -37,7 +37,7 @@ Clone the repository to your local machine.
 
 
 ```
-git clone https://github.com/YOUR_USERNAME/nodejs-file-reading-and-writing.git
+git clone https://github.com/fishonamos/readWrite-Node.git
 ```
 
 
@@ -45,7 +45,7 @@ Navigate to the project directory.
 
 
 ```
-cd nodejs-file-reading-and-writing
+cd readWrite-Node
 ```
 
 
