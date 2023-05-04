@@ -1,0 +1,1 @@
+Use the built-in fs module to interact with the file system. Create a script that reads a file and logs its contents to the console. Then modify the script to write data to a file.
